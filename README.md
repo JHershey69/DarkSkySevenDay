@@ -32,7 +32,7 @@ DarkSkySevenDay forecast; //←------------ Invoke the library
 
 VARIABLES for Current local weather conditions
 
-**Examples follow the variable, all times are LONG in EPOCH format, decimal numbers are FLOATS**
+**Examples follow the variable, all times are LONG in EPOCH format (GMT), decimal numbers are FLOATS**
 
 
 forecast.current.dayTime; // 1582151288
@@ -79,7 +79,7 @@ forecast.current.ozone; // 323.4
 
 VARIABLES for Seven Day Forecast
 
-**Examples follow the variable, all times are LONG in EPOCH format, decimal numbers are FLOATS**
+**Examples follow the variable, all times are LONG in EPOCH format (GMT), decimal numbers are FLOATS**
 
 
 forecast.forecastDay[x].dayTime; // 1582088400
