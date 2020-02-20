@@ -10,13 +10,13 @@ DarkSkySevenDay.h
 
 Required items:
 
-**Google API Key
+**Google API Key**
 
-**Dark Sky API Key
+**Dark Sky API Key**
 
-**HTTPClient.h
+**HTTPClient.h**
 
-**ArduinoJson.h
+**ArduinoJson.h**
 
 Weekly Forecast provides weather data for **NOW** and **7 days in the future**. Using your **WiFi connection only** (no GPS required) and your **Google API Key**, Weekly Forecast triangulates your location and then requests the future forecast from Dark Sky Weather with your **Dark Sky API Key**. No need to worry about setting up the http requests, filters, or finding your location. Let Weekly Forecast do it all for you.
 
@@ -26,9 +26,11 @@ Setup like this:
 
 DarkSkySevenDay forecast; //←------------ Invoke the library 
 
+
 VARIABLES for Current local weather conditions
 
 **Examples follow the variable, all times are LONG in EPOCH format, decimal numbers are FLOATS**
+
 
 forecast.current.dayTime; // 1582151288
 
@@ -74,6 +76,7 @@ forecast.current.ozone; // 323.4
 VARIABLES for Seven Day Forecast
 
 **Examples follow the variable, all times are LONG in EPOCH format, decimal numbers are FLOATS**
+
 
 forecast.forecastDay[x].dayTime; // 1582088400
 
