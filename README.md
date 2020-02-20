@@ -27,6 +27,8 @@ Setup like this:
 DarkSkySevenDay forecast; //←------------ Invoke the library 
 
 
+**-------------------------------------------------------------------**
+
 VARIABLES for Current local weather conditions
 
 **Examples follow the variable, all times are LONG in EPOCH format, decimal numbers are FLOATS**
@@ -71,6 +73,7 @@ forecast.current.visibility; // 10
 forecast.current.ozone; // 323.4
 
 
+**--------------------------------------------------------**
 
 
 VARIABLES for Seven Day Forecast
