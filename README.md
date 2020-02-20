@@ -1,16 +1,22 @@
 # DarkSkySevenDay
 Current and Seven Day Weather Information from Dark Sky
+
 copyright 2020 - Jessica Hershey
+
 www.github.com/JHershey69
 
 
 DarkSkySevenDay.h
 
 Required items:
+
 **Google API Key
-Dark Sky API Key
-HTTPClient.h
-ArduinoJson.h**
+
+**Dark Sky API Key
+
+**HTTPClient.h
+
+**ArduinoJson.h
 
 Weekly Forecast provides weather data for **NOW** and **7 days in the future**. Using your **WiFi connection only** (no GPS required) and your **Google API Key**, Weekly Forecast triangulates your location and then requests the future forecast from Dark Sky Weather with your **Dark Sky API Key**. No need to worry about setting up the http requests, filters, or finding your location. Let Weekly Forecast do it all for you.
 
