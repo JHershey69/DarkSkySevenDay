@@ -1,4 +1,5 @@
-# DarkSkySevenDay
+# DarkSkySevenDay v1.0.0
+
 Current and Seven Day Weather Information from Dark Sky
 
 copyright 2020 - Jessica Hershey
