@@ -1,4 +1,4 @@
 Images for Condition Icon
 
-<img src="data/clear_day.jpg">
+<img src="clear_day.jpg">
 
