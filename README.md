@@ -170,7 +170,7 @@ As usual, if you have any questions just contact me and we’ll get you all on t
 **DISPLAY USE IDEA**
 
 
-![] (/images/IMG_3928.jpg)
+<img src = "images/IMG_3928.jpg">
 
 
 **GNU General Public License v3.0**
