@@ -18,7 +18,10 @@ Required items:
 
 Weekly Forecast provides weather data for **NOW** and **7 days in the future**. Using your **WiFi connection only** (no GPS required) and your **Google API Key**, Weekly Forecast triangulates your location and then requests the future forecast from Dark Sky Weather with your **Dark Sky API Key**. No need to worry about setting up the http requests, filters, or finding your location. Let Weekly Forecast do it all for you.
 
-All you need to do is install the library as you would any other (clone, download, or use the Arduino Library Manager… highly suggested as dependency libraries are installed at the same time). Then simply call **getWeather(“your google key”,”your dark sky key”)** and sit back while weather information downloads to your device:
+All you need to do is install the library as you would any other (clone, download, or use the Arduino Library Manager… highly suggested as dependency libraries are installed at the same time). Then simply call **getWeather(“your google key”,”your dark sky key”)** and sit back while weather information downloads to your device.
+
+<b>PLEASE USE WHATEVER GRAPHICS DRIVER YOU USE FOR YOUR DEVICE AND SET<br>
+  it up accordingly. This library only gets information from the DarkSky Service.</b><BR>
 
 Setup like this:
 
