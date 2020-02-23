@@ -104,7 +104,7 @@ As usual, if you have any questions just contact me and we’ll get you all on t
 <BR><BR>
 **DISPLAY USE IDEA**
 <BR>
-<img src = "images/IMG_3928.jpg" height="100" width="150" >
+<img src = "images/IMG_3928.jpg" height="100" width="150" ><img src = "images/IMG_3934.jpg" height="100" width="150" >
 <BR><BR>
 **GNU General Public License v3.0**
 
