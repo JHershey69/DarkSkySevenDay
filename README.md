@@ -7,6 +7,18 @@ copyright 2020 - Jessica Hershey
 www.github.com/JHershey69
 
 
+
+******* ATTENTION PLEASE********
+
+This library will be obsolete as of OCTOBER 2020
+DarkSky has been sold to Apple and is no longer accepting new API Key requests
+A NEW LIBRARY IS IN THE MAKING AND WILL BE AVAILABLE SOON
+
+********************************
+
+
+
+
 DarkSkySevenDay.h
 
 Required items:
