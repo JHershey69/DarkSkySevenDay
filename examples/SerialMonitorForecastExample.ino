@@ -63,7 +63,7 @@ void setup() {
   // Get the Weather Forecast
   //=================================
 
-  DSSD.getWeather(DARKSKYKEY, GOOGLEKEY);
+  DSSD.parseWeather(DARKSKYKEY, GOOGLEKEY);
 
 
 //=================================================
